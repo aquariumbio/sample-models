@@ -4,6 +4,8 @@ Wrappers that provide easy access to, and computations on, attributes of Aquariu
 
 &copy; University of Washington
 
+### Keywords
+Aquarium, Protocol, Library
 
 ### Maintainer
 - Devin Strickland, <dvn.strcklnd@gmail.com>
