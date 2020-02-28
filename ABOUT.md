@@ -1,4 +1,4 @@
-# Sample Models for Aquarium Protocols, version 0.0.1
+# Aquarium Sample Models, version 0.0.1
 
 Wrappers that provide easy access to, and computations on, attributes of Aquarium Samples [[Download](aq-sample-models.aq)] [[Github Repo](https://github.com/dvnstrcklnd/aq-sample-models)]
 
