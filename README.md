@@ -1,5 +1,7 @@
 # Aquarium Sample Models
 
+**WARNING: This repo has been merged into [protocol-base](https://github.com/aquariumbio/protocol-base) and future updates will happen there. Please consider using that repo instead.**
+
 Aquarium Sample properties can be awkward to work with. For example, Primer sequences are stored in our instance as two sub-sequences:
 
 ```ruby
